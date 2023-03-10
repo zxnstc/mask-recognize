@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>driving_annotation_dataset</folder>
+		<filename>9_Press_Conference_Press_Conference_9_615.jpg</filename>
+		<size>
+			<width>1024</width>
+			<height>642</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>no-mask</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>351</xmin>
+				<ymin>159</ymin>
+				<xmax>649</xmax>
+				<ymax>517</ymax>
+			</bndbox>
+		</object>
+	</annotation>

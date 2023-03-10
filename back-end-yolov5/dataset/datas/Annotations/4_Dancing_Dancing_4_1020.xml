@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>driving_annotation_dataset</folder>
+		<filename>4_Dancing_Dancing_4_1020.jpg</filename>
+		<size>
+			<width>1024</width>
+			<height>1422</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>no-mask</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>361</xmin>
+				<ymin>175</ymin>
+				<xmax>650</xmax>
+				<ymax>634</ymax>
+			</bndbox>
+		</object>
+	</annotation>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>driving_annotation_dataset</folder>
+		<filename>test_00000606.jpg</filename>
+		<size>
+			<width>300</width>
+			<height>225</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>mask</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>107</xmin>
+				<ymin>27</ymin>
+				<xmax>151</xmax>
+				<ymax>83</ymax>
+			</bndbox>
+		</object>
+	</annotation>

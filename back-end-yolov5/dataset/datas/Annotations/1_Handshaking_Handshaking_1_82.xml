@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>driving_annotation_dataset</folder>
+		<filename>1_Handshaking_Handshaking_1_82.jpg</filename>
+		<size>
+			<width>1024</width>
+			<height>754</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>no-mask</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>709</xmin>
+				<ymin>289</ymin>
+				<xmax>867</xmax>
+				<ymax>461</ymax>
+			</bndbox>
+		</object>
+	</annotation>

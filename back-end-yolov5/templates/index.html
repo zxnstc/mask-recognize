@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+
+<!--    此处设置了界面-->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+          integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <title>口罩识别</title>
+</head>
+
+<body>
+<!--此处是视频容器-->
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8  offset-lg-2">
+            <h3 class="mt-5">Yolo V5</h3>
+            	<img src="{{ url_for('video_feed', feed_type='Camera_0') }}" class="center"  style="border:1px solid black;width:100%" alt="Live Stream 1">
+        </div>
+    </div>
+</div>
+</body>
+
+</html>

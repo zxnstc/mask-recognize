@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<annotation>
+		<folder>driving_annotation_dataset</folder>
+		<filename>13_Interview_Interview_Sequences_13_233.jpg</filename>
+		<size>
+			<width>1024</width>
+			<height>682</height>
+			<depth>3</depth>
+		</size>
+		<object>
+			<name>no-mask</name>
+			<pose>Unspecified</pose>
+			<truncated>0</truncated>
+			<difficult>0</difficult>
+			<bndbox>
+				<xmin>309</xmin>
+				<ymin>167</ymin>
+				<xmax>441</xmax>
+				<ymax>407</ymax>
+			</bndbox>
+		</object>
+	</annotation>
